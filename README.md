@@ -1,7 +1,7 @@
 # CACTUS-Dynamically-Switchable-Context-aware-micro-Classifiers-for-Efficient-IoT-Inference
 
 
-https://github.com/mmehdirk/CACTUS-Dynamically-Switchable-Context-aware-micro-Classifiers-for-Efficient-IoT-Inference/assets/128183766/f584729b-0893-45b1-8218-e8a40bdf9b44
+<iframe width="560" height="315" src="https://github.com/mmehdirk/CACTUS-Dynamically-Switchable-Context-aware-micro-Classifiers-for-Efficient-IoT-Inference/raw/main/new_folder/CACTUS_Demo_pi0.mp4" frameborder="0" allowfullscreen></iframe>
 
 
 This repo is the official implementation of "CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference", accepted to MobiSys 2024.
