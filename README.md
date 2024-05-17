@@ -2,7 +2,7 @@
 
 
 
-https://github.com/mmehdirk/CACTUS-Dynamically-Switchable-Context-aware-micro-Classifiers-for-Efficient-IoT-Inference/assets/128183766/b78d13e7-ac90-40c5-9ee2-eb66dd0baef5
+https://github.com/mmehdirk/CACTUS-Dynamically-Switchable-Context-aware-micro-Classifiers-for-Efficient-IoT-Inference/assets/128183766/a9c7640b-9a91-462f-bc3d-cc57358190a9
 
 
 
